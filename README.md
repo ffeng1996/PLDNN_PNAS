@@ -1,5 +1,5 @@
 # PLDNN_PNAS
-## This is the source code and data for PNAS. 
+## This is the source code and data for PNAS submission. 
 
 ### Dataset
 Please see Table S.13 in the supproting information. 
