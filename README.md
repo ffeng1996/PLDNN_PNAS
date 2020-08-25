@@ -1,4 +1,4 @@
 # PLDNN_PNAS
-This is a submission for PNAS. 
+This is the source code and data for PNAS. 
 
-Original data created for the study will be available in this repository upon publication.
+We have chosen that ***Original data created for the study will be available in this repository upon publication*** in the submission system.
